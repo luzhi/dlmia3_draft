@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+# DLMIA 3 | Third workshop on Deep Learning in Medical Image Analysis
+
+## News
 
 You can use the [editor on GitHub](https://github.com/luzhi/dlmia3_draft/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
